@@ -7,7 +7,7 @@
     android:orientation="horizontal"
     android:layout_height="wrap_content"
     android:layout_width="match_parent"
-    android:gravity="left"
+    android:gravity="start"
     android:paddingStart="16dp"
     android:paddingTop="6dp"
     android:paddingBottom="6dp"
@@ -17,6 +17,6 @@
         android:id="@+id/locale"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:gravity="left"
+        android:gravity="start"
         android:textAppearance="?android:attr/textAppearanceMedium" />
 </LinearLayout>
