@@ -44,4 +44,13 @@
     <string name="gesture_navigation">التنقل بالإيماءات</string>
     <string name="navbar_navigation">التنقل باستخدام ثلاثة أزرار</string>
     <string name="hide_gesture_hint">إخفاء تلميحات التنقل الإيمائي</string>
+    <string name="activity_label_empty"></string>
+    <string name="setup_managed_profile_welcome_message">إعداد ملف تعريف العمل</string>
+    <string name="intro_restore_subtitle">إذا كانت لديك نسخة احتياطية من Seedvault بتاريخ %s أو من أي نظام تشغيل آخر، يمكنك استعادتها هنا.</string>
+    <string name="services_pp_explanation">تعمل هذه الخدمات على توسيع إمكانات جهازك. ستُستخدم البيانات وفقًا لسياسة الخصوصية الخاصة بـ %1$s.</string>
+    <string name="services_metrics_label">ساعد في تحسين %1$s من خلال إرسال بيانات التشخيص والاستخدام تلقائيًا إلى %2$s. لا يمكن استخدام هذه المعلومات لتحديد هويتك، وهي تساعد الفرق العاملة على تحسين عمر البطارية وأداء التطبيقات وميزات %3$s الجديدة.</string>
+    <string name="setup_theme">المظهر</string>
+    <string name="theme_summary">يستخدم المظهر الداكن خلفية سوداء للمساعدة في إطالة عمر البطارية على بعض الشاشات</string>
+    <string name="dark">داكن</string>
+    <string name="light">فاتح</string>
 </resources>
